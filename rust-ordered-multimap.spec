@@ -4,7 +4,7 @@
 
 Name:           rust-%{crate}
 Version:        0.4.2
-Release:        1
+Release:        2
 Summary:        Insertion ordered multimap
 
 # Upstream license specification: MIT
