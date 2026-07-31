@@ -3,8 +3,8 @@
 %global crate ordered-multimap
 
 Name:           rust-%{crate}
-Version:        0.4.2
-Release:        2
+Version:        0.7.3
+Release:        1
 Summary:        Insertion ordered multimap
 
 # Upstream license specification: MIT
